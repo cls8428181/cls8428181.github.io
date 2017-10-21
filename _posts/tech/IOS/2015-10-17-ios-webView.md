@@ -353,7 +353,7 @@ UIwebView没有js调app的方法主要有2种实现，一种是通过拦截reque
 - (void)webView:(WKWebView *)webView decidePolicyForNavigationAction:(WKNavigationAction *)navigationAction decisionHandler:(void (^)(WKNavigationActionPolicy))decisionHandler;
 
 
-```
+````
 
 ##  web页面
 ---
@@ -371,16 +371,6 @@ UIwebView没有js调app的方法主要有2种实现，一种是通过拦截reque
 -   [iOS 8 WebKit框架概览（下）译文](http://www.cocoachina.com/ios/20150205/11108.html)
 
 
-## demo
----
-我博客中大部分示例代码都上传到了github，地址是：https://github.com/coolnameismy/demo，[点击跳转代码下载地址](https://github.com/coolnameismy/tree/master/demo)
 
-本文代码存放目录是ios-WebView,本demo没做界面自适应，为了保证效果请用iPhone6及以上模拟器打开
-
-感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/coolnameismy)，本文发布在[刘彦玮的技术博客](http://liuyanwei.jumppo.com/)，转载请注明出处
-
-dome截图
-
-![]({{site.url}}/assets/uploads/webview0.png)
-
-![]({{site.url}}/assets/uploads/webview1.png)
+# 最后
+感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/cls8428181)，本文发布在[常立山的技术博客](https://cls8428181.github.io/)，转载请注明出处

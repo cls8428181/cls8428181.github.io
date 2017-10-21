@@ -519,12 +519,7 @@ totalBytesExpectedToWrite:(NSInteger)totalBytesExpectedToWrite{
 请用大一点的图片进行测试，因为这段代码是有bug的，当文件太小不会进入这个委托方法。
 
 
-## demo
----
-
-[本文的demo下载](https://github.com/coolnameismy/demo/tree/master/network-demo)
-
-感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/coolnameismy)，本文发布在[刘彦玮的技术博客](http://liuyanwei.jumppo.com/)，转载请注明出处
+感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/cls8428181)，本文发布在[常立山的技术博客](https://cls8428181.github.io/)，转载请注明出处
 
 
 ## 参考阅读

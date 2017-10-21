@@ -12,14 +12,6 @@ description:
 > ios的多线程，同步异步操作，都是我们日常的开发中经常会遇到的问题，本文把常见的ios线程，同步异步的操作进行了整理。
 ---
 
-##代码下载:
-
-我博客中大部分示例代码都上传到了github，地址是：https://github.com/coolnameismy/demo，[点击跳转代码下载地址](https://github.com/coolnameismy/demo)
-
-本文代码存放目录是 **ThreadAndAsynchronization**
-
-如果大家支持，请follow我的github账号，并fork我的项目，有其他问题可以在github上给我留言或者给我发邮件，coolnameismy@hotmail.com，blog的RSS订阅地址：http://liuyanwei.jumppo.com/pages/rss.xml
-
 
 ##  基础知识
 ---
@@ -519,13 +511,6 @@ queue也有对应的方法，叫做````waitUntilAllOperationsAreFinished````
 
 如果这些自带的api还不能满足你对线程和队列任务的控制，你可以尝试继承NSOperation，重写一些关键方法。
 
-
-
-##  代码下载:
-
-####    我博客中大部分示例代码都上传到了github，地址是：https://github.com/coolnameismy/demo，[点击跳转代码下载地址](https://github.com/coolnameismy/demo)
-####    本文代码存放目录是ThreadAndAsynchronization
-
 ## 最后
 
-感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/coolnameismy)，本文发布在[刘彦玮的技术博客](http://liuyanwei.jumppo.com/)，转载请注明出处
+感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/cls8428181)，本文发布在[常立山的技术博客](https://cls8428181.github.io/)，转载请注明出处

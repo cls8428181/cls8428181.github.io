@@ -67,28 +67,28 @@ jekyll推荐目录结构：
 
 ```
 #  Site settings
-title: 刘彦玮的技术博客
-email: coolnameismy@hotmail.com
-description: > #刘彦玮的技术博客
+title: 常立山的技术博客
+email:  changls01@163.com
+description: > #常立山的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: coolnameismy@hotmail.com
-github_username:  coolnameismy
+twitter_username: changls01@163.com
+github_username:  cls8428181
 
 #  Build settings
 #   markdown: kramdown
 permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 author:                                     #自定义常亮
-  name: 刘彦玮
-  email: coolnameismy@hotmail.com
-  link: http://liuyanwei.jumppo.com/
-  weibo: http://weibo.com/1897719834
-  github: http://github.com/coolnameismy
-title: 刘彦玮的技术博客                             #自定义常量
+  name: 常立山
+  email:  changls01@163.com
+  link: https://cls8428181.github.io/
+  weibo: 
+  github: http://github.com/cls8428181
+title: 常立山的技术博客                             #自定义常量
 
 #  avatar头像及Favicon
-avatar: https://avatars1.githubusercontent.com/u/5010799?v=3&amp;s=460
+avatar: http://oy5uhzcu4.bkt.clouddn.com/17-10-21/50773269.jpg
 #   favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 locals:                                     #自定义常量
@@ -285,7 +285,7 @@ git push
 
 另外一些特别的功能，比如三栏、评论、谷歌分析，这些都不难，相信你稍微打开Github读一下这个主题的代码就很快明白了。
 
-感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/coolnameismy)，本文发布在[刘彦玮的技术博客](http://liuyanwei.jumppo.com/)，转载请注明出处
+感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/cls8428181)，本文发布在[常立山的技术博客](https://cls8428181.github.io/)，转载请注明出处
 
 代码地址戳[这里][6]
 
@@ -294,7 +294,7 @@ git push
 [3]: http://jekyllrb.com/docs/templates/
 [4]: http://docs.shopify.com/themes/liquid-basics
 [5]: http://jekyllrb.com/docs/variables/
-[6]: https://github.com/coolnameismy/coolnameismy.github.io
+[6]: https://github.com/cls8428181/cls8428181.github.io
 
 
 ##  参考内容

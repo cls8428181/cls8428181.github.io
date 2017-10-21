@@ -24,8 +24,6 @@ description:
 ####  画出来的草图：
 ![草图](https://geekpics.net/images/2015/07/25/aNRFGp.jpg)
 
-####  代码下载:github库，对应此文章的目录是draw [点击跳转代码下载地址](https://github.com/coolnameismy/demo)
-
 ## 1:ios绘图基础
 ---
 
@@ -339,4 +337,4 @@ CGContextAddCurveToPoint,CGContextAddQuadCurveToPoint
 
 ## 最后
 
-感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/coolnameismy)，本文发布在[刘彦玮的技术博客](http://liuyanwei.jumppo.com/)，转载请注明出处
+感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/cls8428181)，本文发布在[常立山的技术博客](https://cls8428181.github.io/)，转载请注明出处

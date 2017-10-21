@@ -6,8 +6,6 @@ tags:
 description:
 ---
 
-今天是4年一次的好日此，在这个日子里，随便写点什么吧。
-
 最近在看objc代码规范相关内容，整理了一些常见的代码规范问题，好记性不如烂笔头，整理一份分享给大家，同时也希望自己时不时的拿出来看一下，或许哪一天我就又忘记了 ：）
 
 最终整理的内容可以看[ios-tips](),这个仓库我会定期整理和更新，涉及的内容更精简。
@@ -148,4 +146,4 @@ NSURL *url = ({
 
 ##  最后
 
-感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/coolnameismy)，本文发布在[刘彦玮的技术博客](http://liuyanwei.jumppo.com/)，转载请注明出处
+感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/cls8428181)，本文发布在[常立山的技术博客](https://cls8428181.github.io/)，转载请注明出处

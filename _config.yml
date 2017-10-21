@@ -45,3 +45,5 @@ markdown: kramdown                         #markdown解释器
 # disqus 设置
 disqus:
   shortname: changlishan
+  layout: default
+  comments: true

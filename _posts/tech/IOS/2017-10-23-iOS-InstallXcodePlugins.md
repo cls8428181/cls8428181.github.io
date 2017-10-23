@@ -14,7 +14,8 @@ description:
 
 ![]({{site.url}}/assets/postImages/ios/buildxcode_01.png)
 
-####但是，如果我就是想继续使用恶魔，怎么办？（别急，方法肯定是有的）
+
+###但是，如果我就是想继续使用恶魔，怎么办？（别急，方法肯定是有的）
 
 * 在 Docker 上右键关闭你的 Xcode
 
